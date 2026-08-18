@@ -1,4 +1,4 @@
-# 打包教程：新 raw beacon → loader.exe（AES-256-CBC 免杀）
+#  loader.exe（AES-256-CBC 免杀）
 
 ## 目录说明（本文件夹）
 
